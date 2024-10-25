@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PWM0 Pin=RN1-1
+Removed Pin From Net: NetName=PWM1 Pin=RN1-2
+Removed Pin From Net: NetName=PWM2 Pin=RN1-3
+Removed Pin From Net: NetName=PWM3 Pin=RN1-4
+Removed Pin From Net: NetName=NetJ3_10 Pin=RN1-5
+Removed Pin From Net: NetName=NetJ3_07 Pin=RN1-6
+Removed Pin From Net: NetName=NetJ3_04 Pin=RN1-7
+Removed Pin From Net: NetName=NetJ3_01 Pin=RN1-8
+Added Pin To Net: NetName=GND Pin=J7-47
+Added Pin To Net: NetName=+3.3V(from CM4) Pin=J7-48
+Added Pin To Net: NetName=NetJ3_01 Pin=RN1-1
+Added Pin To Net: NetName=NetJ3_04 Pin=RN1-2
+Added Pin To Net: NetName=NetJ3_07 Pin=RN1-3
+Added Pin To Net: NetName=NetJ3_10 Pin=RN1-4
+Added Pin To Net: NetName=PWM3 Pin=RN1-5
+Added Pin To Net: NetName=PWM2 Pin=RN1-6
+Added Pin To Net: NetName=PWM1 Pin=RN1-7
+Added Pin To Net: NetName=PWM0 Pin=RN1-8

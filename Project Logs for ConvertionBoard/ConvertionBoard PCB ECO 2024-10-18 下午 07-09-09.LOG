@@ -1,0 +1,56 @@
+Added Component: Designator=B1(PCA9685)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.nxp.com/docs/en/data-sheet/PCA9685.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCA9685PW/Q900,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PCA9685PWQ900118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCA9685PW-Q900118?qs=MWRe%252BjyhxRtZfKNN86P1Tg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(GRM18x)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r61e106ka73d/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E106KA73-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R61E106KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM188R61E106KA3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R61E106KA73D?qs=5aG0NVq1C4z8ebxPkQZf9A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1608X55N_10K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/1365/1-3044649.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0603WAJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "303-0603WAJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Royalohm/0603WAJ0103T5E?qs=e8oIoAS2J1RbD%2Fl9RKhEzg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=B1-1
+Added Pin To Net: NetName=A1 Pin=B1-2
+Added Pin To Net: NetName=A2 Pin=B1-3
+Added Pin To Net: NetName=A3 Pin=B1-4
+Added Pin To Net: NetName=A4 Pin=B1-5
+Added Pin To Net: NetName=PWM0 Pin=B1-6
+Added Pin To Net: NetName=PWM1 Pin=B1-7
+Added Pin To Net: NetName=PWM2 Pin=B1-8
+Added Pin To Net: NetName=PWM3 Pin=B1-9
+Added Pin To Net: NetName=PWM4 Pin=B1-10
+Added Pin To Net: NetName=PWM5 Pin=B1-11
+Added Pin To Net: NetName=PWM6 Pin=B1-12
+Added Pin To Net: NetName=PWM7 Pin=B1-13
+Added Pin To Net: NetName=GND Pin=B1-14
+Added Pin To Net: NetName=NetB1_23 Pin=B1-23
+Added Pin To Net: NetName=A5 Pin=B1-24
+Added Pin To Net: NetName=GND Pin=B1-25
+Added Pin To Net: NetName=GPIO5 Pin=B1-26
+Added Pin To Net: NetName=GPIO4 Pin=B1-27
+Added Pin To Net: NetName=+5V Pin=B1-28
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetB1_23 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Member To Class: ClassName=ConvertionBoard Member=Component B1 PCA9685
+Added Member To Class: ClassName=ConvertionBoard Member=Component C1 GRM188R61E106KA73D
+Added Member To Class: ClassName=ConvertionBoard Member=Component J1 90151-2140
+Added Member To Class: ClassName=ConvertionBoard Member=Component J2 90151-2140
+Added Member To Class: ClassName=ConvertionBoard Member=Component R1 0603WAJ0103T5E

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USB_OTG_ID Pin=J7-47
+Added Pin To Net: NetName=GND Pin=J7-47
+Added Pin To Net: NetName=USB_OTG_ID Pin=J7-49
+Added Pin To Net: NetName=+3.3V(from CM4) Pin=J7-50

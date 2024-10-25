@@ -1,0 +1,21 @@
+Remove Pin=J1-33 From Net=SRV_8.4V
+Remove Pin=J1-34 From Net=SRV_8.4V
+Remove Pin=J1-35 From Net=GND
+Remove Pin=J1-36 From Net=GND
+Remove Pin=J1-37 From Net=EXT1_VCC
+Remove Pin=J1-38 From Net=EXT1_VCC
+Remove Pin=J1-39 From Net=EXT2_VCC
+Remove Pin=J1-40 From Net=EXT2_VCC
+Remove Pin=J2-1 From Net=GPIO14
+Remove Pin=J2-3 From Net=GPIO15
+Remove Pin=J2-15 From Net=GPIO8
+Remove Pin=J2-17 From Net=GPIO9
+Remove Pin=J2-33 From Net=GPIO3
+Remove Pin=J2-35 From Net=GPIO2
+Remove Pin=J2-36 From Net=GPIO16
+Remove Pin=J2-37 From Net=GPIO1
+Remove Pin=J2-39 From Net=GPIO0
+Change Pin Designator/Name:  Old Designator=IC1-4 Old Name=D2+ New Designator =D1+ New Name=1
+Change Pin Designator/Name:  Old Designator=IC1-1 Old Name=D1+ New Designator =D2+ New Name=4
+Change Pin Designator/Name:  Old Designator=J4-3 Old Name=D+ New Designator =D- New Name=2
+Change Pin Designator/Name:  Old Designator=J4-2 Old Name=D- New Designator =D+ New Name=3

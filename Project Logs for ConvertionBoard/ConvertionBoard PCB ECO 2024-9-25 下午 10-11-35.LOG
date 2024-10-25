@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=USB_N Pin=IC1-1
+Removed Pin From Net: NetName=USB_P Pin=IC1-4
+Removed Pin From Net: NetName=NetIC1_2 Pin=J4-2
+Removed Pin From Net: NetName=NetIC1_5 Pin=J4-3
+Added Component: Designator=J1(RHDR40W70P254_2X20_5065X498X870P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/90151-2140.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "90151-2140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-90151-2140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/90151-2140?qs=WjPO6T6WDwtb8fg%2FDgSCUQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_P Pin=IC1-1
+Added Pin To Net: NetName=USB_N Pin=IC1-4
+Added Pin To Net: NetName=+12V Pin=J1-1
+Added Pin To Net: NetName=+12V Pin=J1-2
+Added Pin To Net: NetName=+12V Pin=J1-3
+Added Pin To Net: NetName=+12V Pin=J1-4
+Added Pin To Net: NetName=+12V Pin=J1-5
+Added Pin To Net: NetName=+12V Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=+5V Pin=J1-13
+Added Pin To Net: NetName=+5V Pin=J1-14
+Added Pin To Net: NetName=+5V Pin=J1-15
+Added Pin To Net: NetName=+5V Pin=J1-16
+Added Pin To Net: NetName=+5V Pin=J1-17
+Added Pin To Net: NetName=+5V Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-21
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J1-23
+Added Pin To Net: NetName=GND Pin=J1-24
+Added Pin To Net: NetName=+3.3V Pin=J1-25
+Added Pin To Net: NetName=+3.3V Pin=J1-26
+Added Pin To Net: NetName=+3.3V Pin=J1-27
+Added Pin To Net: NetName=+3.3V Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-29
+Added Pin To Net: NetName=GND Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J1-31
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Pin To Net: NetName=SRV_8.4V Pin=J1-33
+Added Pin To Net: NetName=SRV_8.4V Pin=J1-34
+Added Pin To Net: NetName=GND Pin=J1-35
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=EXT1_VCC Pin=J1-37
+Added Pin To Net: NetName=EXT1_VCC Pin=J1-38
+Added Pin To Net: NetName=EXT2_VCC Pin=J1-39
+Added Pin To Net: NetName=EXT2_VCC Pin=J1-40
+Added Pin To Net: NetName=GPIO14 Pin=J2-1
+Added Pin To Net: NetName=GPIO15 Pin=J2-3
+Added Pin To Net: NetName=GPIO8 Pin=J2-15
+Added Pin To Net: NetName=GPIO9 Pin=J2-17
+Added Pin To Net: NetName=GPIO3 Pin=J2-33
+Added Pin To Net: NetName=GPIO2 Pin=J2-35
+Added Pin To Net: NetName=GPIO16 Pin=J2-36
+Added Pin To Net: NetName=GPIO1 Pin=J2-37
+Added Pin To Net: NetName=GPIO0 Pin=J2-39
+Added Pin To Net: NetName=NetIC1_5 Pin=J4-2
+Added Pin To Net: NetName=NetIC1_2 Pin=J4-3
+Added Member To Class: ClassName=ConvertionBoard Member=Component J1 90151-2140
+Added Member To Class: ClassName=ConvertionBoard Member=Component J2 90151-2140
+Added Room: Name=ConvertionBoard

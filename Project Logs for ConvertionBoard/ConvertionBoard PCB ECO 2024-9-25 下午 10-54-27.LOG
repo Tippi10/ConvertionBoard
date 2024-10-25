@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=SRV_8.4V Pin=J1-33
+Added Pin To Net: NetName=SRV_8.4V Pin=J1-34
+Added Pin To Net: NetName=GND Pin=J1-35
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=GPIO14 Pin=J2-1
+Added Pin To Net: NetName=GPIO15 Pin=J2-3
+Added Pin To Net: NetName=GPIO8 Pin=J2-15
+Added Pin To Net: NetName=GPIO9 Pin=J2-17
+Added Pin To Net: NetName=GPIO3 Pin=J2-33
+Added Pin To Net: NetName=GPIO2 Pin=J2-35
+Added Pin To Net: NetName=GPIO16 Pin=J2-36
+Added Pin To Net: NetName=GPIO1 Pin=J2-37
+Added Pin To Net: NetName=GPIO0 Pin=J2-39
+Added Pin To Net: NetName=EXT1_VCC Pin=J1-37
+Added Pin To Net: NetName=EXT1_VCC Pin=J1-38
+Added Net: Name=EXT1_VCC
+Added Pin To Net: NetName=EXT2_VCC Pin=J1-39
+Added Pin To Net: NetName=EXT2_VCC Pin=J1-40
+Added Net: Name=EXT2_VCC

@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=ConvertionBoard Member=MP1
+Removed Member From Class: ClassName=ConvertionBoard Member=MP2
+Removed Member From Class: ClassName=ConvertionBoard Member=MP3
+Removed Member From Class: ClassName=ConvertionBoard Member=MP4
+Added Pin To Net: NetName=USB_OTG_ID Pin=J7-47
+Added Pin To Net: NetName=GND Pin=J7-48
+Added Room: Name=ConvertionBoard
